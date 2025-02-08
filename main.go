@@ -1,5 +1,5 @@
 package main
-
+//nen xtujnj gbitv
 import (
 	"fmt"
 )
